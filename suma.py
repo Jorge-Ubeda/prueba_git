@@ -7,3 +7,5 @@ def suma(a, b):
 
 
 resultado = suma(a, b)
+
+print("El resultado es ", resultado)
