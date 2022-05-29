@@ -9,3 +9,7 @@ print("Mi comida favorita es ", comida)
 i = 25
 
 print("Mi edad es ", i)
+
+array = np.array([3, 4])
+
+print("Esto es un array ", array)
